@@ -2,7 +2,7 @@
 This repository display the sample of the websites that I made using HTML and CSS.
 
 # Projects
-  * [Space Station](https://nadegeida.github.io/HTML-and-CSS-Projects/My%20new%20website/index%201.html)
+  * [Space Station](https://nadegeida.github.io/HTML-and-CSS-Projects/My%20new%20website/index1.html)
   * [Dog Harness site](https://nadegeida.github.io/HTML-and-CSS-Projects/Challenge_folder/challenge.html)
   * [cinema site](https://nadegeida.github.io/HTML-and-CSS-Projects/bootstrap_folder/academy_cinemas.html)
   * [index site](https://nadegeida.github.io/HTML-and-CSS-Projects/Student_portofolio/)
@@ -17,6 +17,6 @@ This repository display the sample of the websites that I made using HTML and CS
   # Dog Harnesses site
   * **`challenge.html`**- is under one_page_website folder. This project is an example of the home page of a shop that sell harness for dog. it's styled using CSS and contains a navbar, images, tables and container
     # One_page_website
-    * **`one_page_website.html`**-is under 
+    * **`one_page_website.html`**-is under One-Page Website folder. This project is an example of the home page of the shop that sell skin care products. 
     
   
