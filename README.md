@@ -2,9 +2,9 @@
 This repository display the sample of the websites that I made using HTML and CSS.
 
 # Projects
-  * Space Station site
-  * Dog Harness site
-  * cinema site
+  * [Space Station site](https://nadegeida.github.io/HTML-and-CSS-Projects/My%20new%20website/index%201.html)
+  * [Dog Harnesses site](https://nadegeida.github.io/HTML-and-CSS-Projects/challenge/Dog%20Harness.html)
+  * [cinema site](https://nadegeida.github.io/HTML-and-CSS-Projects/bootstrap_folder/academy_cinemas.html)
   * [index site](https://nadegeida.github.io/HTML-and-CSS-Projects/Student_portofolio/)
 
   # space station site
@@ -13,7 +13,7 @@ This repository display the sample of the websites that I made using HTML and CS
   * **`academy_cinemas`**-is under bootstrap_folder. This page is an example home page for a movie theatre that is styled using bootstrap 4. It contains many Bootstrap components including but not limited to a navbar, jumbotron, card, form and dropdowns
   # index site
   * **`index.html`**- is under Student_portofolio folder, where you can see a brief description about me. This folder contains the stylesheet (custom CSS files for styling  and asset collection) and also image folder where all the media asset used across the project are stocked.
-  # Dog Harness site
+  # Dog Harnesses site
   * **`Dog Harness.html`**- is under challenge folder. This project is an example of the home page of a shop that sell harness for dog. it's styled using CSS and contains a navbar, images, tables and container
-  * 
+    
   
