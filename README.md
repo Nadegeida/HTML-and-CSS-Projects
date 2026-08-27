@@ -2,10 +2,11 @@
 This repository display the sample of the websites that I made using HTML and CSS.
 
 # Projects
-  * [Space Station site](https://nadegeida.github.io/HTML-and-CSS-Projects/My%20new%20website/index%201.html)
-  * [Dog Harnesses site](https://nadegeida.github.io/HTML-and-CSS-Projects/challenge/Dog%20Harness.html)
-  * [cinema site](https://nadegeida.github.io/HTML-and-CSS-Projects/bootstrap_folder/academy_cinemas.html)
+  * [Space Station](https://nadegeida.github.io/HTML-and-CSS-Projects/My%20new%20website/)
+  * [Dog Harness site](https://nadegeida.github.io/HTML-and-CSS-Projects/challenge_folder)
+  * [cinema site](https://nadegeida.github.io/HTML-and-CSS-Projects/bootstrap_folder/)
   * [index site](https://nadegeida.github.io/HTML-and-CSS-Projects/Student_portofolio/)
+  * [one_page_website.html](https://nadegeida.github.io/HTML-and-CSS-Projects/one_page%20website/)
 
   # space station site
   * **`index 1.html`**This project under My new website folder, is an example home page for space travel company, it's styled using CSS and contains a navbar, image containers and a form.
@@ -14,6 +15,8 @@ This repository display the sample of the websites that I made using HTML and CS
   # index site
   * **`index.html`**- is under Student_portofolio folder, where you can see a brief description about me. This folder contains the stylesheet (custom CSS files for styling  and asset collection) and also image folder where all the media asset used across the project are stocked.
   # Dog Harnesses site
-  * **`Dog Harness.html`**- is under challenge folder. This project is an example of the home page of a shop that sell harness for dog. it's styled using CSS and contains a navbar, images, tables and container
+  * **`challenge.html`**- is under one_page_website folder. This project is an example of the home page of a shop that sell harness for dog. it's styled using CSS and contains a navbar, images, tables and container
+    # One_page_website
+    * **`one_page_website.html`**-is under 
     
   
