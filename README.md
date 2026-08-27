@@ -2,13 +2,13 @@
 This repository display the sample of the websites that I made using HTML and CSS.
 
 # Projects
-  .Space Station site
-  .Dog Harness site
-  .index site
-  .cinema site
+  **Space Station site
+  **Dog Harness site
+  **index site
+  **cinema site
 
   # space station site
-  This project under My new website folder, is an example home page for space travel company, it's styled using CSS and contains a navbar, image containers and a form.
+  * **`index 1.html`**This project under My new website folder, is an example home page for space travel company, it's styled using CSS and contains a navbar, image containers and a form.
   # academy_cinemas site
   * **`academy_cinemas`**-is under bootstrap_folder. This page is an example home page for a movie theatre that is styled using bootstrap 4. It contains many Bootstrap components including but not limited to a navbar, jumbotron, card, form and dropdowns
   # index site
