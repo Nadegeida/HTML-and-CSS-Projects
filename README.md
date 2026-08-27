@@ -4,8 +4,8 @@ This repository display the sample of the websites that I made using HTML and CS
 # Projects
   * Space Station site
   * Dog Harness site
-  * index site
   * cinema site
+  * [index site](https://nadegeida.github.io/HTML-and-CSS-Projects/Student_portofolio/)
 
   # space station site
   * **`index 1.html`**This project under My new website folder, is an example home page for space travel company, it's styled using CSS and contains a navbar, image containers and a form.
